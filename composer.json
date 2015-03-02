@@ -7,5 +7,7 @@
             "email": "edanschwartz@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "nelmio/alice": "~1.7"
+    }
 }
