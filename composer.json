@@ -1,0 +1,11 @@
+{
+    "name": "eschwartz/alice-issue-181",
+    "description": "Reproduction of bug at https://github.com/nelmio/alice/issues/181",
+    "authors": [
+        {
+            "name": "Edan Schwartz",
+            "email": "edanschwartz@gmail.com"
+        }
+    ],
+    "require": {}
+}
