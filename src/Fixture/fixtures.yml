@@ -1,0 +1,10 @@
+eschwartz\AliceIssue181\Model\Book:
+  bookA:
+   name: 'Book A'
+  bookB:
+   name: 'Book B'
+
+eschwartz\AliceIssue181\Model\Library:
+  myLibrary:
+    books: <ArrayCollection(@bookA, @bookB)>
+    addBook: [<BookOnTheFly('Look Ma I Dun Written Myself A Book')>]

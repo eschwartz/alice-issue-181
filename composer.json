@@ -8,6 +8,12 @@
         }
     ],
     "require": {
-        "nelmio/alice": "~1.7"
-    }
+        "nelmio/alice": "~1.7",
+        "doctrine/common": "~2.4"
+    },
+	"autoload": {
+		"psr-4": {
+			"eschwartz\\AliceIssue181\\": "src/"
+		}
+	}
 }
